@@ -4,9 +4,8 @@
 
 ![basic workflow](examples/pulid_wf.jpg)
 
-## Important updates
-
-- **2024.05.12:** Added attention masking and the Advanced node, allows fine tuning of the generation.
+> [!IMPORTANT]  
+> **2025.04.14** - I do not use ComfyUI as my main way to interact with Gen AI anymore as a result I'm setting the repository in "maintenance only" mode. If there are crucial updates or PRs I might still consider merging them but I do not plan any consistent work on this repo.
 
 ## Notes
 
