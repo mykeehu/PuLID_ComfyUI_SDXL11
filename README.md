@@ -1,4 +1,4 @@
-# PuLID ComfyUI
+# PuLID ComfyUI with PulID 1.1
 
 [PuLID](https://github.com/ToTheBeginning/PuLID) ComfyUI native implementation.
 
